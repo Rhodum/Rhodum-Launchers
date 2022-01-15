@@ -1,2 +1,2 @@
-# Python Launcher
-This launcher was used in the begging of 2021 when Rhodum had it's first 2010 client.
+# C# Launcher
+This launcher was released right before summer 2021.
