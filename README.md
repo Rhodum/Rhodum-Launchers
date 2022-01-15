@@ -1,2 +1,2 @@
-# Rhodum-Launchers
-This is the source codes for all the rhodum launchers used from 2020 - 2021
+# Python Launcher
+This launcher was used in the begging of 2021 when Rhodum had it's first 2010 client.
